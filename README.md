@@ -2,9 +2,6 @@
 
 Vue.js application that uses the Yandex Translate API
 
-### Version
-1.0.0
-
 ## Install Dependencies
 ```bash
 npm install
